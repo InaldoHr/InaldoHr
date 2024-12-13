@@ -10,6 +10,11 @@
 • 🚀 Meu objetivo é criar soluções funcionais e experiências incríveis para os usuários.<br>
 </p>
 
+[![E-mail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=mail.ru&logoColor=0078D4)](mailto:hinaldo264@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/lnaldo-henrique-ab6185295/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/Inaldo0/)
+
+
 ###
 
 <br>
@@ -26,8 +31,11 @@
   <img align="center" alt="Inaldo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 
+<br>
 
 ###
+
+<h1>My Statistics</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=InaldoHr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -46,6 +54,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InaldoHr/InaldoHr/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/InaldoHr/InaldoHr/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
+<div align="center">
+  <p>Visitors</p>
+  <img src="https://profile-counter.glitch.me/InaldoHr/count.svg?"  />
 </div>
 
 
